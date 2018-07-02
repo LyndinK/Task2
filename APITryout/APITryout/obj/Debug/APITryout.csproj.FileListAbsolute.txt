@@ -1,0 +1,14 @@
+C:\Users\Кирилл\Desktop\Navigator\APITryout\APITryout\obj\Debug\APITryout.csprojAssemblyReference.cache
+C:\Users\Кирилл\Desktop\Navigator\APITryout\APITryout\obj\Debug\APITryout.Form1.resources
+C:\Users\Кирилл\Desktop\Navigator\APITryout\APITryout\obj\Debug\APITryout.Properties.Resources.resources
+C:\Users\Кирилл\Desktop\Navigator\APITryout\APITryout\obj\Debug\APITryout.csproj.GenerateResource.cache
+C:\Users\Кирилл\Desktop\Navigator\APITryout\APITryout\obj\Debug\APITryout.csproj.CoreCompileInputs.cache
+C:\Users\Кирилл\Desktop\Navigator\APITryout\APITryout\bin\Debug\APITryout.exe.config
+C:\Users\Кирилл\Desktop\Navigator\APITryout\APITryout\bin\Debug\APITryout.exe
+C:\Users\Кирилл\Desktop\Navigator\APITryout\APITryout\bin\Debug\APITryout.pdb
+C:\Users\Кирилл\Desktop\Navigator\APITryout\APITryout\bin\Debug\BingMapsRESTToolkit.dll
+C:\Users\Кирилл\Desktop\Navigator\APITryout\APITryout\bin\Debug\BingMapsRESTToolkit.pdb
+C:\Users\Кирилл\Desktop\Navigator\APITryout\APITryout\bin\Debug\BingMapsRESTToolkit.xml
+C:\Users\Кирилл\Desktop\Navigator\APITryout\APITryout\obj\Debug\APITryout.csproj.CopyComplete
+C:\Users\Кирилл\Desktop\Navigator\APITryout\APITryout\obj\Debug\APITryout.exe
+C:\Users\Кирилл\Desktop\Navigator\APITryout\APITryout\obj\Debug\APITryout.pdb
