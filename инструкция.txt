@@ -1,0 +1,4 @@
+Загрузить архив и открыть файл .sln в MS VisualStudio, решение откоется автоматически.
+Если у вас нет MS VisualStudio, то
+Исходный код есть в папке APITryout\APITryout в файлах Program.cs и Form1.cs
+А в папке APITryout\APITryout в файлах\obj\Debug есть готовый exe файл APITryout.exe
